@@ -1,0 +1,12 @@
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:13.016 BasePage:75 - login with invalidUsername
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:14.833 BasePage:75 - password is secret_sauce
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:15.958 BasePage:58 - press login button
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:17.044 BasePage:101 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:19.738 BasePage:75 - login with standard_user
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:21.477 BasePage:75 - password is invalidPassword
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:22.119 BasePage:58 - press login button
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:22.902 BasePage:101 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:25.195 BasePage:75 - login with standard_user
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:26.881 BasePage:75 - password is secret_sauce
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:28.050 BasePage:58 - press login button
+[Android_Pixel_5_API_35 INFO ] 2025-04-03 09:16:29.316 BasePage:101 - product page title is - PRODUCTS

@@ -1,0 +1,23 @@
+[iOS_iPhone 16 INFO ] 2025-05-05 17:06:56.682 BasePage:75 - login with invalidUsername
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:01.073 BasePage:75 - password is secret_sauce
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:02.919 BasePage:58 - press login button
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:04.956 BasePage:101 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:12.349 BasePage:75 - login with standard_user
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:15.136 BasePage:75 - password is invalidPassword
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:16.873 BasePage:58 - press login button
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:18.854 BasePage:101 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:27.105 BasePage:75 - login with standard_user
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:30.013 BasePage:75 - password is secret_sauce
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:31.648 BasePage:58 - press login button
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:34.495 BasePage:101 - product page title is - PRODUCTS
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:41.624 BasePage:75 - login with standard_user
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:44.238 BasePage:75 - password is secret_sauce
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:45.839 BasePage:58 - press login button
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:48.592 BasePage:117 - product title is: Sauce Labs Bolt T-ShirtSauce Labs Bolt T-Shirt
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:55.894 BasePage:75 - login with standard_user
+[iOS_iPhone 16 INFO ] 2025-05-05 17:07:58.840 BasePage:75 - password is secret_sauce
+[iOS_iPhone 16 INFO ] 2025-05-05 17:08:00.470 BasePage:58 - press login button
+[iOS_iPhone 16 INFO ] 2025-05-05 17:08:03.102 BasePage:64 - press Sauce Labs Backpack link
+[iOS_iPhone 16 INFO ] 2025-05-05 17:08:05.095 BasePage:101 - title is: Sauce Labs Backpack
+[iOS_iPhone 16 INFO ] 2025-05-05 17:08:05.997 BasePage:101 - description is: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[iOS_iPhone 16 INFO ] 2025-05-05 17:08:07.401 BasePage:101 - price is: $29.99

@@ -1,0 +1,18 @@
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:19.950 BasePage:75 - login with standard_user
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:21.652 BasePage:75 - password is secret_sauce
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:22.718 BasePage:58 - press login button
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:24.222 BasePage:58 - press Sauce Labs Backpack link
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:25.342 BasePage:101 - title is: Sauce Labs Backpack
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:25.455 BasePage:101 - description is: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:25.512 BasePage:101 - price is: $29.99
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:25.561 BasePage:58 - press Add to cart button
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:26.277 BasePage:58 - press Cart Button
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:27.525 BasePage:101 - title is:Sauce Labs Backpack
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:27.645 BasePage:101 - price is:$29.99
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:27.759 BasePage:101 - description is:carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:27.813 BasePage:58 - press checkoutButton
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:29.450 BasePage:75 - checkOut with firstName:Diogo
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:30.623 BasePage:75 - checkOut with lastName:Godinho
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:32.284 BasePage:75 - checkout with zipcode:7100-151
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:33.431 BasePage:58 - press continue Button
+[Android_Pixel_9 INFO ] 2025-05-08 16:56:36.929 BasePage:58 - press Finish button
