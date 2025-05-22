@@ -22,8 +22,8 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
         ,features = {"src/test/resources"}
         ,glue = {"com.qa.stepdef"}
         ,snippets = CAMELCASE
-        ,dryRun=false
-        ,monochrome=true
+        ,
+        monochrome=true
 
 
 )
