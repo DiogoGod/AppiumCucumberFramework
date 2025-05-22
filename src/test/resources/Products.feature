@@ -30,7 +30,7 @@ Feature: Product scenarios
     Examples:
     |title                     | price| description|
     | Sauce Labs Backpack     | $29.99 | carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection. |
-@test1
+
   Scenario Outline: Procedure of buying a product
     Given I'm logged in
     When I click product title "<title>"

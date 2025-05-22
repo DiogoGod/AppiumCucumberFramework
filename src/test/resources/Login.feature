@@ -1,4 +1,4 @@
-@test
+
 Feature: Login scenarios
 
   Scenario Outline: Login with invalid user name

@@ -24,7 +24,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
         ,snippets = CAMELCASE
         ,dryRun=false
         ,monochrome=true
-     ,tags = "@test1"
+
 
 )
 public class MyRunnerTest {
